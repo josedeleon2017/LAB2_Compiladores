@@ -34,4 +34,7 @@
 
 7	F -> false
 
+## PRUEBA PRINCIPAL
+![image](https://user-images.githubusercontent.com/33106612/138579991-68ef502a-227d-4fca-890a-91306e960601.png)
+
 
